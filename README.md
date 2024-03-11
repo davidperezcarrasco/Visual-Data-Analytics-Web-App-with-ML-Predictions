@@ -16,6 +16,7 @@ The web app has the following features:
 * **Comparison Tool:** Shows the salary difference between two countries for a given education and experience level and provides more information about your predictions.
 
 ## Illustrations
+A visual overview of some of the most relevant features:
 
 * **Exploratory Data Analysis**
 ![Exploratory Data Analysis](images/StreamlitEDA.png)
