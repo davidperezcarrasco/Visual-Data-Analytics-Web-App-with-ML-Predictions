@@ -17,11 +17,11 @@ The web app has the following features:
 
 ## Illustrations
 
-![Exploratory Data Analysis](images/StreamlitEDA)
+![Exploratory Data Analysis](images/StreamlitEDA.png)
 
-![Interactive Map](images/StreamlitMap)
+![Interactive Map](images/StreamlitMap.png)
 
-![Salary Predictor](images/StreamlitPredict)
+![Salary Predictor](images/StreamlitPredict.png)
 
 ## Installation
 To run this project, you need to have Python 3.7 or higher and the following packages installed:
