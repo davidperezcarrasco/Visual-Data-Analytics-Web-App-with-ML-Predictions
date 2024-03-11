@@ -17,14 +17,15 @@ The web app has the following features:
 
 ## Illustrations
 
-**Exploratory Data Analysis**
+* **Exploratory Data Analysis**
 ![Exploratory Data Analysis](images/StreamlitEDA.png)
 
-**Interactive Map**
+
+* **Interactive Map**
 ![Interactive Map](images/StreamlitMap.png)
 
 
-**Salary Predictor**
+* **Salary Predictor**
 ![Salary Predictor](images/StreamlitPredict.png)
 
 ## Installation
