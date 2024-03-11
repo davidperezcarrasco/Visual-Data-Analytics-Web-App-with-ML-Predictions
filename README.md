@@ -15,6 +15,14 @@ The web app has the following features:
   - Estimates the salary of a software developer based on multiple features.
 * **Comparison Tool:** Shows the salary difference between two countries for a given education and experience level and provides more information about your predictions.
 
+## Illustrations
+
+![Exploratory Data Analysis](images/StreamlitEDA)
+
+![Interactive Map](images/StreamlitMap)
+
+![Salary Predictor](images/StreamlitPredict)
+
 ## Installation
 To run this project, you need to have Python 3.7 or higher and the following packages installed:
 
