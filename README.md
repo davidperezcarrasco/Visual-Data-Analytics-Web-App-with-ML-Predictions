@@ -1,4 +1,4 @@
-# Visual Analytics Project - Human Resources Consultancy
+# Visual Analytics Project - Interactive Web App with Salary Predictions
 This project is a web app that provides data analysis and salary prediction for software developers based on the Stack Overflow Annual Developer Survey. The project consists of two main parts:
 
 - A **Jupyter Notebook** that performs exploratory data analysis (EDA), data preparation, and machine learning modeling on the survey data.
